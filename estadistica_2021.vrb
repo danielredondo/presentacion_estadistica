@@ -55,10 +55,11 @@
 	\normalsize{
 		\begin{verbatim}
 			# Contacto
-			email   <- "daniel.redondo.easp@juntadeandalucia.es"
-			web     <- "danielredondo.com"
-			github  <- "github.com/danielredondo"
-			twitter <- "@dredondosanchez"
+			email    <- "daniel.redondo.easp@juntadeandalucia.es"
+			web      <- "danielredondo.com"
+			github   <- "github.com/danielredondo"
+			twitter  <- "@dredondosanchez"
+			telegram <- "@danielredondo"
 		\end{verbatim}
 		
 		
