@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.4)  17 MAY 2021 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.4)  19 MAY 2021 13:57
 entering extended mode
 **./estadistica_2021.tex
 (estadistica_2021.tex
@@ -1236,7 +1236,7 @@ File: logos/logo_ciber.png Graphic file (type png)
 Package pdftex.def Info: logos/logo_ciber.png  used on input line 123.
 (pdftex.def)             Requested size: 79.0703pt x 28.44864pt.
 
-Overfull \vbox (14.4683pt too high) detected at line 123
+Overfull \vbox (17.2683pt too high) detected at line 123
  []
 
 [1
@@ -1247,10 +1247,10 @@ png> <./logos/logo_aecc.png> <./logos/logo_ciber.png>]
 <images/foto_perfil.png, id=46, 1292.57906pt x 1083.29718pt>
 File: images/foto_perfil.png Graphic file (type png)
 <use images/foto_perfil.png>
-Package pdftex.def Info: images/foto_perfil.png  used on input line 156.
+Package pdftex.def Info: images/foto_perfil.png  used on input line 157.
 (pdftex.def)             Requested size: 89.85277pt x 75.29306pt.
 
-Overfull \hbox (4.27895pt too wide) in paragraph at lines 156--156
+Overfull \hbox (4.27895pt too wide) in paragraph at lines 157--157
  [] 
  []
 
@@ -1272,15 +1272,15 @@ Overfull \hbox (4.27895pt too wide) in paragraph at lines 156--156
 <images/registro.jpg, id=92, 578.16pt x 385.44pt>
 File: images/registro.jpg Graphic file (type jpg)
 <use images/registro.jpg>
-Package pdftex.def Info: images/registro.jpg  used on input line 289.
+Package pdftex.def Info: images/registro.jpg  used on input line 290.
 (pdftex.def)             Requested size: 154.03183pt x 102.68806pt.
 <logos/logo_rcg.png, id=93, 421.49416pt x 55.77885pt>
 File: logos/logo_rcg.png Graphic file (type png)
 <use logos/logo_rcg.png>
-Package pdftex.def Info: logos/logo_rcg.png  used on input line 289.
+Package pdftex.def Info: logos/logo_rcg.png  used on input line 290.
 (pdftex.def)             Requested size: 154.03183pt x 20.3842pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
-289.
+290.
 
 ("C:\Users\dredondo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1355,25 +1355,25 @@ Overfull \hbox (0.17918pt too wide) detected at line 377
 <images/stata.jpg, id=140, 1017.8025pt x 321.2pt>
 File: images/stata.jpg Graphic file (type jpg)
 <use images/stata.jpg>
-Package pdftex.def Info: images/stata.jpg  used on input line 411.
+Package pdftex.def Info: images/stata.jpg  used on input line 415.
 (pdftex.def)             Requested size: 95.84079pt x 30.24475pt.
 
 [14
 
  <./images/stata.jpg>]
 LaTeX Font Info:    Trying to load font information for OMS+lmss on input line 
-428.
-LaTeX Font Info:    No file OMSlmss.fd. on input line 428.
+432.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 432.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 428.
+(Font)              for symbol `textbraceleft' on input line 432.
 
 <images/ggplot2.png, id=148, 738.76pt x 856.19875pt>
 File: images/ggplot2.png Graphic file (type png)
 <use images/ggplot2.png>
-Package pdftex.def Info: images/ggplot2.png  used on input line 428.
+Package pdftex.def Info: images/ggplot2.png  used on input line 432.
 (pdftex.def)             Requested size: 68.45801pt x 79.32779pt.
 [15
 
@@ -1381,7 +1381,7 @@ Package pdftex.def Info: images/ggplot2.png  used on input line 428.
 <images/4.png, id=158, 867.24pt x 578.16pt>
 File: images/4.png Graphic file (type png)
 <use images/4.png>
-Package pdftex.def Info: images/4.png  used on input line 435.
+Package pdftex.def Info: images/4.png  used on input line 439.
 (pdftex.def)             Requested size: 325.17949pt x 216.78299pt.
  [16
 
@@ -1389,23 +1389,23 @@ Package pdftex.def Info: images/4.png  used on input line 435.
 <images/5.jpg, id=166, 370.5042pt x 544.6749pt>
 File: images/5.jpg Graphic file (type jpg)
 <use images/5.jpg>
-Package pdftex.def Info: images/5.jpg  used on input line 455.
+Package pdftex.def Info: images/5.jpg  used on input line 459.
 (pdftex.def)             Requested size: 145.47653pt x 213.86015pt.
 <images/16.png, id=167, 578.16pt x 578.16pt>
 File: images/16.png Graphic file (type png)
 <use images/16.png>
-Package pdftex.def Info: images/16.png  used on input line 455.
+Package pdftex.def Info: images/16.png  used on input line 459.
 (pdftex.def)             Requested size: 171.14764pt x 171.14679pt.
  [17
 
  <./images/5.jpg> <./images/16.png (PNG copy)>]
 File: images/5.jpg Graphic file (type jpg)
 <use images/5.jpg>
-Package pdftex.def Info: images/5.jpg  used on input line 455.
+Package pdftex.def Info: images/5.jpg  used on input line 459.
 (pdftex.def)             Requested size: 145.47653pt x 213.86015pt.
 File: images/16.png Graphic file (type png)
 <use images/16.png>
-Package pdftex.def Info: images/16.png  used on input line 455.
+Package pdftex.def Info: images/16.png  used on input line 459.
 (pdftex.def)             Requested size: 171.14764pt x 171.14679pt.
  [18
 
@@ -1413,255 +1413,354 @@ Package pdftex.def Info: images/16.png  used on input line 455.
 <images/25.png, id=180, 578.16pt x 578.16pt>
 File: images/25.png Graphic file (type png)
 <use images/25.png>
-Package pdftex.def Info: images/25.png  used on input line 474.
-(pdftex.def)             Requested size: 171.14764pt x 171.14679pt.
-<images/29.png, id=181, 722.7pt x 578.16pt>
-File: images/29.png Graphic file (type png)
-<use images/29.png>
-Package pdftex.def Info: images/29.png  used on input line 474.
-(pdftex.def)             Requested size: 171.14764pt x 136.91743pt.
- [19
+Package pdftex.def Info: images/25.png  used on input line 469.
+(pdftex.def)             Requested size: 232.75829pt x 232.75081pt.
 
- <./images/25.png> <./images/29.png (PNG copy)>]
-File: images/25.png Graphic file (type png)
-<use images/25.png>
-Package pdftex.def Info: images/25.png  used on input line 474.
-(pdftex.def)             Requested size: 171.14764pt x 171.14679pt.
-File: images/29.png Graphic file (type png)
-<use images/29.png>
-Package pdftex.def Info: images/29.png  used on input line 474.
-(pdftex.def)             Requested size: 171.14764pt x 136.91743pt.
+Overfull \vbox (6.68005pt too high) detected at line 469
+ []
+
+[19
+
+ <./images/25.png>]
+<images/26.png, id=189, 578.16pt x 578.16pt>
+File: images/26.png Graphic file (type png)
+<use images/26.png>
+Package pdftex.def Info: images/26.png  used on input line 480.
+(pdftex.def)             Requested size: 232.75829pt x 232.75081pt.
+
+Overfull \vbox (6.68005pt too high) detected at line 480
+ []
 
 [20
 
-] [21
+ <./images/26.png>] [21
 
 ] [22
 
 ]
-<images/tendencias0.png, id=208, 670.1838pt x 378.213pt>
+<images/tendencias0.png, id=209, 670.1838pt x 378.213pt>
 File: images/tendencias0.png Graphic file (type png)
 <use images/tendencias0.png>
-Package pdftex.def Info: images/tendencias0.png  used on input line 516.
+Package pdftex.def Info: images/tendencias0.png  used on input line 522.
 (pdftex.def)             Requested size: 342.2953pt x 193.17462pt.
  [23
 
  <./images/tendencias0.png>]
-<images/tendencias1.png, id=216, 670.1838pt x 378.213pt>
+<images/tendencias1.png, id=217, 670.1838pt x 378.213pt>
 File: images/tendencias1.png Graphic file (type png)
 <use images/tendencias1.png>
-Package pdftex.def Info: images/tendencias1.png  used on input line 529.
+Package pdftex.def Info: images/tendencias1.png  used on input line 535.
 (pdftex.def)             Requested size: 342.2953pt x 193.17462pt.
  [24
 
  <./images/tendencias1.png>]
-<images/tendencias_pulmon.png, id=224, 670.1838pt x 378.213pt>
-File: images/tendencias_pulmon.png Graphic file (type png)
-<use images/tendencias_pulmon.png>
-Package pdftex.def Info: images/tendencias_pulmon.png  used on input line 542.
-(pdftex.def)             Requested size: 342.2953pt x 193.17462pt.
+<images/tendencias_pulmon0.png, id=225, 733.23938pt x 407.27156pt>
+File: images/tendencias_pulmon0.png Graphic file (type png)
+<use images/tendencias_pulmon0.png>
+Package pdftex.def Info: images/tendencias_pulmon0.png  used on input line 547.
 
-[25
+(pdftex.def)             Requested size: 342.2953pt x 190.12505pt.
+ [25
 
- <./images/tendencias_pulmon.png>]
-<images/proyecciones0.png, id=233, 709.90219pt x 456.20438pt>
-File: images/proyecciones0.png Graphic file (type png)
-<use images/proyecciones0.png>
-Package pdftex.def Info: images/proyecciones0.png  used on input line 554.
-(pdftex.def)             Requested size: 308.06367pt x 197.97394pt.
+ <./images/tendencias_pulmon0.png>]
+<images/jpo0.png, id=234, 481.04718pt x 324.8386pt>
+File: images/jpo0.png Graphic file (type png)
+<use images/jpo0.png>
+Package pdftex.def Info: images/jpo0.png  used on input line 567.
+(pdftex.def)             Requested size: 171.14764pt x 115.57376pt.
+<images/jpo5.png, id=235, 477.28313pt x 327.84984pt>
+File: images/jpo5.png Graphic file (type png)
+<use images/jpo5.png>
+Package pdftex.def Info: images/jpo5.png  used on input line 567.
+(pdftex.def)             Requested size: 171.14764pt x 117.56061pt.
  [26
 
+ <./images/jpo0.png> <./images/jpo5.png>]
+File: images/jpo0.png Graphic file (type png)
+<use images/jpo0.png>
+Package pdftex.def Info: images/jpo0.png  used on input line 587.
+(pdftex.def)             Requested size: 171.14764pt x 115.57376pt.
+<images/jpo4.png, id=244, 476.53032pt x 329.35547pt>
+File: images/jpo4.png Graphic file (type png)
+<use images/jpo4.png>
+Package pdftex.def Info: images/jpo4.png  used on input line 587.
+(pdftex.def)             Requested size: 171.14764pt x 118.29146pt.
+ [27
+
+ <./images/jpo4.png>]
+File: images/jpo0.png Graphic file (type png)
+<use images/jpo0.png>
+Package pdftex.def Info: images/jpo0.png  used on input line 607.
+(pdftex.def)             Requested size: 171.14764pt x 115.57376pt.
+<images/jpo3.png, id=252, 478.78876pt x 324.08578pt>
+File: images/jpo3.png Graphic file (type png)
+<use images/jpo3.png>
+Package pdftex.def Info: images/jpo3.png  used on input line 607.
+(pdftex.def)             Requested size: 171.14764pt x 115.84494pt.
+ [28
+
+ <./images/jpo3.png>]
+File: images/jpo0.png Graphic file (type png)
+<use images/jpo0.png>
+Package pdftex.def Info: images/jpo0.png  used on input line 627.
+(pdftex.def)             Requested size: 171.14764pt x 115.57376pt.
+<images/jpo2.png, id=260, 481.4236pt x 327.47343pt>
+File: images/jpo2.png Graphic file (type png)
+<use images/jpo2.png>
+Package pdftex.def Info: images/jpo2.png  used on input line 627.
+(pdftex.def)             Requested size: 171.14764pt x 116.41628pt.
+
+[29
+
+ <./images/jpo2.png>]
+File: images/jpo0.png Graphic file (type png)
+<use images/jpo0.png>
+Package pdftex.def Info: images/jpo0.png  used on input line 647.
+(pdftex.def)             Requested size: 171.14764pt x 115.57376pt.
+<images/jpo1.png, id=268, 478.03593pt x 328.22626pt>
+File: images/jpo1.png Graphic file (type png)
+<use images/jpo1.png>
+Package pdftex.def Info: images/jpo1.png  used on input line 647.
+(pdftex.def)             Requested size: 171.14764pt x 117.51027pt.
+ [30
+
+ <./images/jpo1.png>]
+<images/tendencias_pulmon1.png, id=276, 733.23938pt x 414.79968pt>
+File: images/tendencias_pulmon1.png Graphic file (type png)
+<use images/tendencias_pulmon1.png>
+Package pdftex.def Info: images/tendencias_pulmon1.png  used on input line 659.
+
+(pdftex.def)             Requested size: 342.2953pt x 193.63937pt.
+ [31
+
+ <./images/tendencias_pulmon1.png>]
+<images/proyecciones0.png, id=285, 709.90219pt x 456.20438pt>
+File: images/proyecciones0.png Graphic file (type png)
+<use images/proyecciones0.png>
+Package pdftex.def Info: images/proyecciones0.png  used on input line 671.
+(pdftex.def)             Requested size: 308.06367pt x 197.97394pt.
+ [32
+
  <./images/proyecciones0.png>]
-<images/proyecciones1.png, id=242, 712.16063pt x 461.47406pt>
+<images/proyecciones1.png, id=294, 712.16063pt x 461.47406pt>
 File: images/proyecciones1.png Graphic file (type png)
 <use images/proyecciones1.png>
-Package pdftex.def Info: images/proyecciones1.png  used on input line 568.
+Package pdftex.def Info: images/proyecciones1.png  used on input line 685.
 (pdftex.def)             Requested size: 308.06367pt x 199.61998pt.
 
-Overfull \vbox (5.73677pt too high) detected at line 568
+Overfull \vbox (5.73677pt too high) detected at line 685
  []
 
-[27
+[33
 
  <./images/proyecciones1.png>]
-<images/granada.png, id=253, 10840.5pt x 10840.5pt>
+<images/granada.png, id=305, 10840.5pt x 10840.5pt>
 File: images/granada.png Graphic file (type png)
 <use images/granada.png>
-Package pdftex.def Info: images/granada.png  used on input line 596.
+Package pdftex.def Info: images/granada.png  used on input line 714.
 (pdftex.def)             Requested size: 154.03183pt x 153.99904pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <24.88> on input line 596.
+(Font)              <24.88> on input line 714.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 596.
+(Font)              <17.28> on input line 714.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <24.88> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 596.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 714.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <17.28> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 596.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 714.
 
-<images/andalucia.png, id=254, 10840.5pt x 10840.5pt>
+<images/andalucia.png, id=306, 10840.5pt x 10840.5pt>
 File: images/andalucia.png Graphic file (type png)
 <use images/andalucia.png>
-Package pdftex.def Info: images/andalucia.png  used on input line 596.
+Package pdftex.def Info: images/andalucia.png  used on input line 714.
 (pdftex.def)             Requested size: 154.03183pt x 153.99904pt.
 
-Overfull \hbox (8.17926pt too wide) detected at line 596
+Overfull \hbox (8.17926pt too wide) detected at line 714
 [][][] $[]$[][][][][][][] $\OMS/lmsy/m/n/24.88 )$[][] $[]$[][][][][][] 
  []
 
-[28
+[34
 
  <./images/granada.png> <./images/andalucia.png>]
 File: images/granada.png Graphic file (type png)
 <use images/granada.png>
-Package pdftex.def Info: images/granada.png  used on input line 596.
+Package pdftex.def Info: images/granada.png  used on input line 714.
 (pdftex.def)             Requested size: 154.03183pt x 153.99904pt.
 File: images/andalucia.png Graphic file (type png)
 <use images/andalucia.png>
-Package pdftex.def Info: images/andalucia.png  used on input line 596.
+Package pdftex.def Info: images/andalucia.png  used on input line 714.
 (pdftex.def)             Requested size: 154.03183pt x 153.99904pt.
 
-Overfull \hbox (8.17926pt too wide) detected at line 596
+Overfull \hbox (8.17926pt too wide) detected at line 714
 [][][] $[]$[][][][][][][][] $\OMS/lmsy/m/n/24.88 )$[][] $[]$[][][][][][] 
  []
 
-[29
+[35
 
-] [30
+] [36
 
 ]
-<images/estimaciones_hombres.png, id=276, 495.35063pt x 393.72093pt>
+<images/estimaciones_hombres.png, id=328, 495.35063pt x 393.72093pt>
 File: images/estimaciones_hombres.png Graphic file (type png)
 <use images/estimaciones_hombres.png>
-Package pdftex.def Info: images/estimaciones_hombres.png  used on input line 63
-2.
+Package pdftex.def Info: images/estimaciones_hombres.png  used on input line 75
+0.
 (pdftex.def)             Requested size: 171.14764pt x 136.03212pt.
-<images/estimaciones_mujeres.png, id=277, 491.58656pt x 391.4625pt>
+<images/estimaciones_mujeres.png, id=329, 491.58656pt x 391.4625pt>
 File: images/estimaciones_mujeres.png Graphic file (type png)
 <use images/estimaciones_mujeres.png>
-Package pdftex.def Info: images/estimaciones_mujeres.png  used on input line 63
-2.
+Package pdftex.def Info: images/estimaciones_mujeres.png  used on input line 75
+0.
 (pdftex.def)             Requested size: 171.14764pt x 136.28519pt.
- [31
+ [37
 
  <./images/estimaciones_hombres.png> <./images/estimaciones_mujeres.png>]
-<images/estimaciones_hombres2.png, id=287, 581.17125pt x 426.84468pt>
+<images/estimaciones_hombres2.png, id=339, 581.17125pt x 426.84468pt>
 File: images/estimaciones_hombres2.png Graphic file (type png)
 <use images/estimaciones_hombres2.png>
-Package pdftex.def Info: images/estimaciones_hombres2.png  used on input line 6
-54.
+Package pdftex.def Info: images/estimaciones_hombres2.png  used on input line 7
+72.
 (pdftex.def)             Requested size: 167.72395pt x 123.18257pt.
-<images/estimaciones_mujeres2.png, id=288, 640.64343pt x 434.37282pt>
+<images/estimaciones_mujeres2.png, id=340, 640.64343pt x 434.37282pt>
 File: images/estimaciones_mujeres2.png Graphic file (type png)
 <use images/estimaciones_mujeres2.png>
-Package pdftex.def Info: images/estimaciones_mujeres2.png  used on input line 6
-54.
+Package pdftex.def Info: images/estimaciones_mujeres2.png  used on input line 7
+72.
 (pdftex.def)             Requested size: 174.57132pt x 118.36258pt.
 
-Overfull \hbox (3.42368pt too wide) in paragraph at lines 654--654
+Overfull \hbox (3.42368pt too wide) in paragraph at lines 772--772
  [] 
  []
 
-[32
+[38
 
  <./images/estimaciones_hombres2.png> <./images/estimaciones_mujeres2.png>]
-<images/tfm_matematicas.png, id=297, 420.06938pt x 429.85594pt>
+<images/tfm_matematicas.png, id=349, 420.06938pt x 429.85594pt>
 File: images/tfm_matematicas.png Graphic file (type png)
 <use images/tfm_matematicas.png>
-Package pdftex.def Info: images/tfm_matematicas.png  used on input line 675.
+Package pdftex.def Info: images/tfm_matematicas.png  used on input line 793.
 (pdftex.def)             Requested size: 136.91603pt x 140.10162pt.
-<images/tfm_matematicas2.png, id=298, 697.10437pt x 307.1475pt>
+<images/tfm_matematicas2.png, id=350, 697.10437pt x 307.1475pt>
 File: images/tfm_matematicas2.png Graphic file (type png)
 <use images/tfm_matematicas2.png>
-Package pdftex.def Info: images/tfm_matematicas2.png  used on input line 675.
+Package pdftex.def Info: images/tfm_matematicas2.png  used on input line 793.
 (pdftex.def)             Requested size: 205.37926pt x 90.49055pt.
 
-[33
+[39
 
- <./images/tfm_matematicas.png> <./images/tfm_matematicas2.png>] [34
+ <./images/tfm_matematicas.png> <./images/tfm_matematicas2.png>] [40
 
 ]
-<images/06_logo_knowseq.png, id=313, 428.0793pt x 560.5743pt>
+<images/06_logo_knowseq.png, id=365, 428.0793pt x 560.5743pt>
 File: images/06_logo_knowseq.png Graphic file (type png)
 <use images/06_logo_knowseq.png>
-Package pdftex.def Info: images/06_logo_knowseq.png  used on input line 712.
+Package pdftex.def Info: images/06_logo_knowseq.png  used on input line 830.
 (pdftex.def)             Requested size: 51.3422pt x 67.2318pt.
 
-[35
+[41
 
  <./images/06_logo_knowseq.png>]
-<images/liver.jpg, id=322, 1144.275pt x 752.8125pt>
+<images/liver.jpg, id=374, 1144.275pt x 752.8125pt>
 File: images/liver.jpg Graphic file (type jpg)
 <use images/liver.jpg>
-Package pdftex.def Info: images/liver.jpg  used on input line 729.
+Package pdftex.def Info: images/liver.jpg  used on input line 847.
 (pdftex.def)             Requested size: 222.48985pt x 146.36708pt.
- [36
+ [42
 
  <./images/liver.jpg>]
-<images/07_higado_biclase_sankey.png, id=329, 2409.0pt x 2107.875pt>
+<images/07_higado_biclase_sankey.png, id=381, 2409.0pt x 2107.875pt>
 File: images/07_higado_biclase_sankey.png Graphic file (type png)
 <use images/07_higado_biclase_sankey.png>
 Package pdftex.def Info: images/07_higado_biclase_sankey.png  used on input lin
-e 740.
+e 858.
 (pdftex.def)             Requested size: 256.72147pt x 224.63017pt.
 
-Overfull \vbox (3.55942pt too high) detected at line 740
+Overfull \vbox (3.55942pt too high) detected at line 858
  []
 
-[37
+[43
 
  <./images/07_higado_biclase_sankey.png>]
-<images/15_higado_biclase_42_knn_heatmap_mejor_metodo.png, id=338, 2482.27374pt
+<images/15_higado_biclase_42_knn_heatmap_mejor_metodo.png, id=390, 2482.27374pt
  x 2317.65875pt>
 File: images/15_higado_biclase_42_knn_heatmap_mejor_metodo.png Graphic file (ty
 pe png)
 <use images/15_higado_biclase_42_knn_heatmap_mejor_metodo.png>
 Package pdftex.def Info: images/15_higado_biclase_42_knn_heatmap_mejor_metodo.p
-ng  used on input line 749.
+ng  used on input line 867.
 (pdftex.def)             Requested size: 205.37926pt x 191.74675pt.
- [38
+ [44
 
  <./images/15_higado_biclase_42_knn_heatmap_mejor_metodo.png>]
-<images/16_higado_biclase_43_knn_boxplots_mejor_metodo.png, id=346, 3914.625pt 
+<images/16_higado_biclase_43_knn_boxplots_mejor_metodo.png, id=398, 3914.625pt 
 x 2409.0pt>
 File: images/16_higado_biclase_43_knn_boxplots_mejor_metodo.png Graphic file (t
 ype png)
 <use images/16_higado_biclase_43_knn_boxplots_mejor_metodo.png>
 Package pdftex.def Info: images/16_higado_biclase_43_knn_boxplots_mejor_metodo.
-png  used on input line 757.
+png  used on input line 875.
 (pdftex.def)             Requested size: 308.06367pt x 189.56271pt.
- [39
+ [45
 
  <./images/16_higado_biclase_43_knn_boxplots_mejor_metodo.png>]
-<images/17_higado_biclase_18_svm_matriz_confusion_mejor_metodo.png, id=354, 385
+<images/17_higado_biclase_18_svm_matriz_confusion_mejor_metodo.png, id=406, 385
 5.40375pt x 1577.895pt>
 File: images/17_higado_biclase_18_svm_matriz_confusion_mejor_metodo.png Graphic
  file (type png)
 <use images/17_higado_biclase_18_svm_matriz_confusion_mejor_metodo.png>
 Package pdftex.def Info: images/17_higado_biclase_18_svm_matriz_confusion_mejor
-_metodo.png  used on input line 767.
+_metodo.png  used on input line 885.
 (pdftex.def)             Requested size: 308.06367pt x 126.06564pt.
- [40
+ [46
 
- <./images/17_higado_biclase_18_svm_matriz_confusion_mejor_metodo.png>] [41
+ <./images/17_higado_biclase_18_svm_matriz_confusion_mejor_metodo.png>] [47
 
 ]
-<images/maps_DI_zoom.png, id=368, 530.28113pt x 208.1376pt>
+<images/mapa_0.png, id=420, 869.49844pt x 248.42813pt>
+File: images/mapa_0.png Graphic file (type png)
+<use images/mapa_0.png>
+Package pdftex.def Info: images/mapa_0.png  used on input line 923.
+(pdftex.def)             Requested size: 273.83728pt x 78.24011pt.
+<images/mapa_1.png, id=421, 380.17032pt x 253.69781pt>
+File: images/mapa_1.png Graphic file (type png)
+<use images/mapa_1.png>
+Package pdftex.def Info: images/mapa_1.png  used on input line 923.
+(pdftex.def)             Requested size: 154.03183pt x 102.78963pt.
+<images/mapa_2.png, id=422, 260.47313pt x 331.99031pt>
+File: images/mapa_2.png Graphic file (type png)
+<use images/mapa_2.png>
+Package pdftex.def Info: images/mapa_2.png  used on input line 923.
+(pdftex.def)             Requested size: 102.68962pt x 130.88397pt.
+ [48
+
+ <./images/mapa_0.png> <./images/mapa_1.png> <./images/mapa_2.png>]
+<images/mapa_3.png, id=432, 647.04234pt x 513.79453pt>
+File: images/mapa_3.png Graphic file (type png)
+<use images/mapa_3.png>
+Package pdftex.def Info: images/mapa_3.png  used on input line 933.
+(pdftex.def)             Requested size: 256.72147pt x 203.85211pt.
+ [49
+
+ <./images/mapa_3.png>]
+<images/maps_DI_zoom.png, id=441, 530.28113pt x 208.1376pt>
 File: images/maps_DI_zoom.png Graphic file (type png)
 <use images/maps_DI_zoom.png>
-Package pdftex.def Info: images/maps_DI_zoom.png  used on input line 792.
+Package pdftex.def Info: images/maps_DI_zoom.png  used on input line 942.
 (pdftex.def)             Requested size: 308.06367pt x 120.91997pt.
- [42
+ [50
 
  <./images/maps_DI_zoom.png>]
-<images/03_lung_ebs_zoom.png, id=376, 537.32745pt x 225.12105pt>
+<images/03_lung_ebs_zoom.png, id=449, 537.32745pt x 225.12105pt>
 File: images/03_lung_ebs_zoom.png Graphic file (type png)
 <use images/03_lung_ebs_zoom.png>
-Package pdftex.def Info: images/03_lung_ebs_zoom.png  used on input line 803.
+Package pdftex.def Info: images/03_lung_ebs_zoom.png  used on input line 953.
 (pdftex.def)             Requested size: 308.06367pt x 129.06917pt.
- [43
 
- <./images/03_lung_ebs_zoom.png>]
+[51
+
+ <./images/03_lung_ebs_zoom.png>] [52
+
+]
 \openout4 = `estadistica_2021.vrb'.
 
  (estadistica_2021.vrb
@@ -1689,7 +1788,7 @@ File: logos/logo_ciber.png Graphic file (type png)
 <use logos/logo_ciber.png>
 Package pdftex.def Info: logos/logo_ciber.png  used on input line 39.
 (pdftex.def)             Requested size: 79.0703pt x 28.44864pt.
-) [44
+) [53
 
 ]
 \tf@nav=\write7
@@ -1701,11 +1800,13 @@ Package pdftex.def Info: logos/logo_ciber.png  used on input line 39.
 \tf@snm=\write9
 \openout9 = `estadistica_2021.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 895.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 895.
- (estadistica_2021.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 895.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 895.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1064.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1064.
+
+(estadistica_2021.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1064.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1064.
+
 Package rerunfilecheck Info: File `estadistica_2021.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1714,13 +1815,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22336 strings out of 480896
- 449089 string characters out of 2896717
- 675912 words of memory out of 3000000
- 37521 multiletter control sequences out of 15000+200000
+ 22438 strings out of 480896
+ 450670 string characters out of 2896717
+ 676912 words of memory out of 3000000
+ 37594 multiletter control sequences out of 15000+200000
  605956 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,16n,67p,806b,752s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 58i,16n,67p,806b,753s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/dredondo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ma
 thsy.enc}{C:/Users/dredondo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/l
 m/lm-rm.enc}{C:/Users/dredondo/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
@@ -1742,9 +1843,9 @@ blic/lm/lmssbx10.pfb><C:/Users/dredondo/AppData/Local/Programs/MiKTeX 2.9/fonts
 iKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/dredondo/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Users/dredondo/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtti10.pfb>
-Output written on estadistica_2021.pdf (44 pages, 8965447 bytes).
+Output written on estadistica_2021.pdf (53 pages, 10581908 bytes).
 PDF statistics:
- 460 PDF objects out of 1000 (max. 8388607)
- 89 named destinations out of 1000 (max. 500000)
- 282 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 541 PDF objects out of 1000 (max. 8388607)
+ 107 named destinations out of 1000 (max. 500000)
+ 337 words of extra memory for PDF output out of 10000 (max. 10000000)
 
